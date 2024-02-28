@@ -1,10 +1,3 @@
-/*******************************************************************************
- * Filename    : edf.c
- * Author      : Matthew Angelakos
- * Date        : 3-3-23
- * Description : Earliest Deadline First Scheduling Algorithm
- * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
- ******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 int zero = 0; // gobal variable to make loop always be true
